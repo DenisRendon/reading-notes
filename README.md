@@ -9,5 +9,6 @@
 *Show up, participate, ask questions
 *Try to help others
 *Ask questions, research and dont be afraid to be wrong
-![Keep your head up] (https://www.significantinsightsmedia.com/wp-content/uploads/2022/01/Untitled.jpg)
+
+<a href="https://www.significantinsightsmedia.com/wp-content/uploads/2022/01/Untitled.jpg">link</a>
 
