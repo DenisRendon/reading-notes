@@ -5,13 +5,21 @@
 
 
 *Growth mindset* 
--have a willingness to learn and make mistakes along the way. 
-*-eing able to accept that and still grow creates many more oppertunites in life vs having a fixed mindset and being afraid to get out of your confort box. 
+1. Have a willingness to learn and make mistakes along the way. 
+2. Being able to accept that and still grow creates many more oppertunites in life vs having a fixed mindset and being afraid to get out of your confort box. 
 
 *Reminders to myself to keep a growth mindset*
-*Show up, participate, ask questions
-*Try to help others
-*Ask questions, research and dont be afraid to be wrong
+1. Show up, participate, ask questions
+2. Try to help others
+3. Ask questions, research and dont be afraid to be wrong
 
 <a href="https://www.significantinsightsmedia.com/wp-content/uploads/2022/01/Untitled.jpg">link</a>
+
+Github
+https://github.com/DenisRendon
+
+Linkedin
+https://www.linkedin.com/in/denis-rendon-b738a6b6/
+
+
 
