@@ -1,7 +1,7 @@
 
 
 # About me
-Hello I'm Denis Rendon and am from central Texas. Over the last 12 years I have had a career in aviation and the space industry.  During those 12 years was a helicopter crewchief flight instructor for the Army, a Department of the Army Civilian instructor training reserve units, after that contracted over seas working as a flight engineer and flight instructor for 3 years training the Afghan Airforce and special mission wing units. Most recently I was with Firefly Aerospace's integration team building the Alpha rocket. I am excited about this new chapter and career and cant wait to see where it takes me.
+Hello I'm Denis Rendon and am located in central Texas. Over the last 12 years I have had a career in aviation and the space industry.  During those 12 years was a helicopter crewchief flight instructor for the Army, a Department of the Army Civilian instructor training reserve units, after that contracted over seas working as a flight engineer and flight instructor for 3 years training the Afghan Airforce and special mission wing units. Most recently I was with Firefly Aerospace's integration team building the Alpha rocket. I am excited about this new chapter and career and cant wait to see where it takes me.
 
 
 *Growth mindset* 
