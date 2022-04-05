@@ -4,7 +4,7 @@
 - ### HTML
 1.Headings
 HTML has 6 levels of headings
- <h1> is used for main headings,<h2> ia used for sub headings,<h3> further sub headings and so on
+ h1> is used for main headings,h2> is used for sub headings,h3> further sub headings and so on
 
 2. Paragraphs <p> </p>
 3. Bold <b> </b>
