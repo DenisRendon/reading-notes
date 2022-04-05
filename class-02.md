@@ -10,18 +10,18 @@ HTML has 6 levels of headings
 3. Bold <b> </b>
 Italic <i> </i>
 
-4. Superscript <sup> contains chars that should be Superscript souch as suffixes of dates or math concepts
-5. Subscript <sub> contains chars that should be subscript.
-6. Line Break <br /> can add inside the middle of a paragraph to put the text on a new line.
-7. Horizontal Rules <hr /> Add to change themes or start new sections
-8. Strong <strong> shows importance, comes out in Bold
-9. Emphasis <em> changes the meaning of a sentence. comes out in Italic
-10. Quotations <blockquote> used for longer quotes, <q> used for shorter quotes
-11. Abbreviations <abbr> abbreviats
-12. Citation <cite> comes out in italic, used to reference, should not be used for names
-13. Definitions <dfn> used to indicate the defining instance of a new term
-14. Address <address> use dfor addresses,
-15. Change of content <ins> inserts into a doc, <del> deleted from doc, <s> shes what is no longer accurate but shoud not be deleted. Puts a line through the text.
+4. Superscript sup> contains chars that should be Superscript souch as suffixes of dates or math concepts
+5. Subscript sub> contains chars that should be subscript.
+6. Line Break br /> can add inside the middle of a paragraph to put the text on a new line.
+7. Horizontal Rules hr /> Add to change themes or start new sections
+8. Strong strong> shows importance, comes out in Bold
+9. Emphasis em> changes the meaning of a sentence. comes out in Italic
+10. Quotations blockquote> used for longer quotes, <q> used for shorter quotes
+11. Abbreviations abbr> abbreviats
+12. Citation cite> comes out in italic, used to reference, should not be used for names
+13. Definitions dfn> used to indicate the defining instance of a new term
+14. Address address> use dfor addresses,
+15. Change of content ins> inserts into a doc, del> deleted from doc, s> shes what is no longer accurate but shoud not be deleted. Puts a line through the text.
 - ### CSS 
 1. CSS trears each HTML element as if it appears inside its own box and uses rules to indicate how that element should look.
 2. Rules are made up of selectors that specify the elements that rule applies to, and declarations that indicate what these elements should look like.
@@ -37,6 +37,9 @@ Italic <i> </i>
 5. JS distinguishes between numbers, strings, and Bools
 6. Expressions evaluate into a single value.
 7. Expressions rely on operators to caluate a value.
+ 
+ - ## Things I want to know more about
+1. Loops have been dificult for me to get down. I want to learn more about about them and if/else statements. Understanding these can totally revamp and add so much more to a page.
 
 
 
