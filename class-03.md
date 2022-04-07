@@ -78,7 +78,9 @@ Lists can be nested inside onanother
 ### Things I want to know more about
 1. Switch statements and seeing some in real time
 2. Get a better understand of if..else statements
-3. 
+
+
+<cite> Java Script & Jquery, Jon Duckett </cite>
 
 
 
