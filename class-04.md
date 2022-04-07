@@ -48,3 +48,5 @@
  1. Building a directory Structure looks pretty scary but I want to give it a shot
  2. There seem to be so many different ways to style and layout a page and I want to try to make a liquid page for a mobile screen
  3. I feel comfortable with functions to an extent, looking forward to expanding my knowlage on these
+ 
+ <cite> Java Script & Jquery, Jon Duckett </cite>
