@@ -2,7 +2,7 @@
 - HTML- Images 406-427 / Practical Information 476-492
 
 
-### Audio, Video, Images
+### Audio, Video, Images 
 1. You can add a background image to the entire page my b> tag or just to a paragraph p>
 2. You can specify the dimensions of images using CSS
 3. Images can be aligned both horizontally and vertically
