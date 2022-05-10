@@ -2,7 +2,7 @@
 # Table of Contents
 
 [readingNotes 1](./readingNotes1.md)
-[ReadingNotes301](./ReadingNotes301.md)
+[ReadNotes301](./ReadNotes301.md)
 
 # About me
 
