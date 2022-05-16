@@ -2,3 +2,5 @@
 [301-Class-02](./301-Class-02.md)
 [301-Class-03](./301-Class-03.md)
 [301-Class-04](./301-Class-04.md)
+[301-Class-05](./301-Class-05.md)
+[301-Class-06](./301-Class-06.md)
